@@ -1,0 +1,26 @@
+
+
+body{
+    background-color: black;
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem; 
+}
+
+button{
+    background-color: teal;
+    color: white;
+    font-family: "Noto serif",serif;
+    padding: 10px 20px;
+    border: none;
+}
+
